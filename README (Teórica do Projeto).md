@@ -1,6 +1,7 @@
 Aplicativo de Navegação Acessível
 
 1. Introdução
+   
 Nos últimos anos, o uso de tecnologias digitais tem se tornado cada vez mais presente
 no cotidiano das pessoas. Aplicativos móveis, sistemas online e diversas ferramentas
 tecnológicas passaram a facilitar tarefas diárias como comunicação, acesso à
@@ -32,11 +33,14 @@ suas atividades diárias.
 
 
 3. Objetivos
+   
 2.1 Objetivo Geral
+
 Propor o desenvolvimento de um aplicativo de navegação acessível voltado para
 pessoas com deficiência visual, buscando oferecer recursos que facilitem a orientação
 e o deslocamento do usuário de maneira mais segura, prática e intuitiva.
 2.2 Objetivos Específicos
+
 Para alcançar o objetivo geral deste trabalho, foram definidos os seguintes objetivos
 específicos:
 • Utilizar comandos de voz para entrada de dados, permitindo que o usuário
@@ -54,7 +58,8 @@ necessidades de pessoas com deficiência visual.
 
 
 
-4. Metodologia
+3. Metodologia
+  
 O desenvolvimento do aplicativo será conduzido de forma prática e objetiva, seguindo
 etapas básicas:
 • Pesquisa inicial: levantamento das principais necessidades de pessoas com
@@ -74,7 +79,8 @@ tradicionais de navegação.
 
 
 
-5. Estrutura de Código (Inicial)
+4. Estrutura de Código (Inicial)
+   
 app/
 ├── main.py # Ponto de entrada do aplicativo
 ├── voice_input.py # Captura e interpretação de comandos de voz
@@ -91,7 +97,8 @@ app/
 
 
 
-6. Possíveis Resultados
+8. Possíveis Resultados
+
 A implementação do aplicativo de navegação acessível poderá gerar resultados
 relevantes tanto para os usuários quanto para a sociedade em geral:
 • Maior autonomia: pessoas com deficiência visual terão mais independência em
@@ -110,6 +117,7 @@ acessibilidade em tecnologias digitais.
 
 
 
-7. Telas do Projeto
+10. Telas do Projeto
+    
 No link abaixo haverá as 6 telas do nosso protótipo criadas no Figma:
 https://www.figma.com/site/FZmwYi21nTI6fO0v6hd7yi/Untitled?node-id=12-1541&t=UkQR3tGzRfKSnW7I-1
