@@ -107,3 +107,9 @@ completas, integrando novos recursos como inteligência artificial para
 reconhecimento de obstáculos.
 • Impacto positivo: contribuição para a conscientização sobre a importância da
 acessibilidade em tecnologias digitais.
+
+
+
+7. Telas do Projeto
+No link abaixo haverá as 6 telas do nosso protótipo criadas no Figma:
+https://www.figma.com/site/FZmwYi21nTI6fO0v6hd7yi/Untitled?node-id=12-1541&t=UkQR3tGzRfKSnW7I-1
