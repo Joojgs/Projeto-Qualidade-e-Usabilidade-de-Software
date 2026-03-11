@@ -43,15 +43,19 @@ e o deslocamento do usuário de maneira mais segura, prática e intuitiva.
 
 Para alcançar o objetivo geral deste trabalho, foram definidos os seguintes objetivos
 específicos:
+
 • Utilizar comandos de voz para entrada de dados, permitindo que o usuário
 informe destinos e utilize as funções do aplicativo sem depender da interface
 visual.
+
 • Fornecer instruções de navegação por áudio, orientando o usuário durante o
 percurso com informações claras sobre direções, mudanças de rota e
 distâncias.
+
 • Implementar feedback tátil por meio de vibração, oferecendo sinais físicos
 que auxiliem na orientação do usuário e na confirmação de determinadas
 ações dentro do aplicativo.
+
 • Avaliar a qualidade do software com foco em acessibilidade, analisando
 aspectos como usabilidade, facilidade de interação e adequação do sistema às
 necessidades de pessoas com deficiência visual.
@@ -62,17 +66,22 @@ necessidades de pessoas com deficiência visual.
   
 O desenvolvimento do aplicativo será conduzido de forma prática e objetiva, seguindo
 etapas básicas:
+
 • Pesquisa inicial: levantamento das principais necessidades de pessoas com
 deficiência visual em relação à mobilidade urbana, incluindo entrevistas rápidas
 e análise de aplicativos já existentes.
+
 • Protótipo funcional: criação de uma versão simples do aplicativo com
 comandos de voz, instruções em áudio e vibração, priorizando funcionalidades
 essenciais para navegação segura.
+
 • Testes com usuários: aplicação de testes rápidos com pessoas cegas ou com
 baixa visão para verificar usabilidade, clareza das instruções e eficiência dos
 recursos de acessibilidade.
+
 • Ajustes e melhorias: correção de falhas e aprimoramento das funcionalidades
 com base no feedback dos usuários, garantindo evolução contínua.
+
 • Validação final: análise da experiência geral, medindo indicadores como
 autonomia, satisfação e facilidade de uso, comparando com soluções
 tradicionais de navegação.
@@ -83,16 +92,27 @@ tradicionais de navegação.
    
 app/
 ├── main.py # Ponto de entrada do aplicativo
+
 ├── voice_input.py # Captura e interpretação de comandos de voz
+
 ├── navigation.py # Cálculo de rotas e integração com mapas
+
 ├── audio_output.py # Geração de instruções em áudio (Text-to-Speech)
+
 ├── tactile_feedback.py # Controle de vibração do dispositivo
+
 ├── screens/ # Telas do aplicativo
+
 │ ├── home_screen.py # Tela inicial
+
 │ ├── voice_screen.py # Tela de comando de voz
+
 │ ├── navigation_screen.py # Tela de navegação
+
 │ ├── alert_screen.py # Tela de alerta
+
 │ └── settings_screen.py # Tela de configurações
+
 └── tests/ # Testes básicos de cada módulo
 
 
@@ -101,17 +121,23 @@ app/
 
 A implementação do aplicativo de navegação acessível poderá gerar resultados
 relevantes tanto para os usuários quanto para a sociedade em geral:
+
 • Maior autonomia: pessoas com deficiência visual terão mais independência em
 seus deslocamentos urbanos.
+
 • Segurança ampliada: o uso de alertas sonoros e vibração pode reduzir riscos
 durante a locomoção.
+
 • Inclusão social: acesso facilitado a espaços públicos e privados, promovendo
 participação mais ativa na comunidade.
+
 • Usabilidade validada: testes com usuários permitirão comprovar a eficiência
 dos recursos de acessibilidade.
+
 • Base para futuras melhorias: o protótipo poderá evoluir para versões mais
 completas, integrando novos recursos como inteligência artificial para
 reconhecimento de obstáculos.
+
 • Impacto positivo: contribuição para a conscientização sobre a importância da
 acessibilidade em tecnologias digitais.
 
