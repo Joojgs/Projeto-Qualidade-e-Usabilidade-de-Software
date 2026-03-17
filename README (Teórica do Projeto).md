@@ -39,6 +39,7 @@ suas atividades diárias.
 Propor o desenvolvimento de um aplicativo de navegação acessível voltado para
 pessoas com deficiência visual, buscando oferecer recursos que facilitem a orientação
 e o deslocamento do usuário de maneira mais segura, prática e intuitiva.
+
 2.2 Objetivos Específicos
 
 Para alcançar o objetivo geral deste trabalho, foram definidos os seguintes objetivos
