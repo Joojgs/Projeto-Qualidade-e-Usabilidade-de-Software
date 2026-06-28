@@ -55,6 +55,8 @@ pip install -r requirements.txt
 Execute:
 
 python -m app.main
+ou
+python -m Prototipo-Inicial.app.main
 
 
 ## Status
