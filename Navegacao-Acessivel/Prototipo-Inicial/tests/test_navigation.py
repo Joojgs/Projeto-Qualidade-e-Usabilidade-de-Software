@@ -24,6 +24,7 @@ def testar_navegacao():
     Futuramente:
 comparar resultado esperado com
 resultado retornado pelo módulo navigation.py
+kdjhasdjkasbdkajshdasjkd
     """
 
     pass
