@@ -31,35 +31,35 @@ O objetivo é criar uma solução acessível utilizando:
 
 ## Como executar
 
-Clone o projeto:
+1. Clone o projeto:
 
 git clone LINK_DO_REPOSITORIO
 
 
-Entre na pasta:
+2. Entre na pasta:
 
 cd Navegacao-Acessivel
 
 cd Prototipo-Inicial
 
 
-Crie ambiente virtual:
+3. Crie ambiente virtual:
 
 python -m venv venv
 
 
-Ative:
+4. Ative:
 
 Windows:
 venv\Scripts\activate
 
 
-Instale dependências:
+5. Instale dependências:
 
 pip install -r requirements.txt
 
 
-Execute:
+6. Execute:
 
 python -m app.main
 
