@@ -25,9 +25,9 @@ O objetivo é criar uma solução acessível utilizando:
 
 ## Estrutura
 
-app/
-screens/
-tests/
+- app/
+- screens/
+- tests/
 
 ## Como executar
 
