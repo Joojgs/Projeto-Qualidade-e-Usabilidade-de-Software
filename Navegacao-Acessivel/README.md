@@ -2,7 +2,7 @@
 
 Protótipo de aplicativo de navegação voltado para pessoas com deficiência visual.
 
-##Integrantes do grupo:
+## Integrantes do grupo:
 
 - João Pedro Girardi da Silva
 - Nicolas Hoefling
