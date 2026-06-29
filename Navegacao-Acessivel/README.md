@@ -2,6 +2,13 @@
 
 Protótipo de aplicativo de navegação voltado para pessoas com deficiência visual.
 
+##Integrantes do grupo:
+
+- João Pedro Girardi da Silva
+- Nicolas Hoefling
+- Erick de Jesus
+- João Miguel Luciano Ventorini
+
 ## Sobre o projeto
 
 O objetivo é criar uma solução acessível utilizando:
